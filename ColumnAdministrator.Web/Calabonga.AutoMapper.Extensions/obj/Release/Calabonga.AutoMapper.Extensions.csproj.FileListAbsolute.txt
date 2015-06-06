@@ -1,0 +1,9 @@
+D:\Dev\Calabonga\Calabonga.Dreamhome\Calabonga.Dreamhome\Calabonga.AutoMapper.Extensions\bin\Release\AutoMapper.Net4.dll
+D:\Dev\Calabonga\Calabonga.Dreamhome\Calabonga.Dreamhome\Calabonga.AutoMapper.Extensions\bin\Release\Calabonga.AutoMapper.Extensions.dll
+D:\Dev\Calabonga\Calabonga.Dreamhome\Calabonga.Dreamhome\Calabonga.AutoMapper.Extensions\bin\Release\Calabonga.AutoMapper.Extensions.pdb
+D:\Dev\Calabonga\Calabonga.Dreamhome\Calabonga.Dreamhome\Calabonga.AutoMapper.Extensions\bin\Release\AutoMapper.dll
+D:\Dev\Calabonga\Calabonga.Dreamhome\Calabonga.Dreamhome\Calabonga.AutoMapper.Extensions\bin\Release\Calabonga.Mvc.PagedListExt.dll
+D:\Dev\Calabonga\Calabonga.Dreamhome\Calabonga.Dreamhome\Calabonga.AutoMapper.Extensions\bin\Release\AutoMapper.xml
+D:\Dev\Calabonga\Calabonga.Dreamhome\Calabonga.Dreamhome\Calabonga.AutoMapper.Extensions\obj\Release\Calabonga.AutoMapper.Extensions.csprojResolveAssemblyReference.cache
+D:\Dev\Calabonga\Calabonga.Dreamhome\Calabonga.Dreamhome\Calabonga.AutoMapper.Extensions\obj\Release\Calabonga.AutoMapper.Extensions.dll
+D:\Dev\Calabonga\Calabonga.Dreamhome\Calabonga.Dreamhome\Calabonga.AutoMapper.Extensions\obj\Release\Calabonga.AutoMapper.Extensions.pdb

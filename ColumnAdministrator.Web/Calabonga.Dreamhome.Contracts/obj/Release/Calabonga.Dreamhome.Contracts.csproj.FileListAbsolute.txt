@@ -1,0 +1,7 @@
+D:\Dev\Calabonga\Calabonga.Dreamhome\Calabonga.Dreamhome\Calabonga.Dreamhome.Contracts\bin\Release\Calabonga.Dreamhome.Contracts.dll
+D:\Dev\Calabonga\Calabonga.Dreamhome\Calabonga.Dreamhome\Calabonga.Dreamhome.Contracts\bin\Release\Calabonga.Dreamhome.Contracts.pdb
+D:\Dev\Calabonga\Calabonga.Dreamhome\Calabonga.Dreamhome\Calabonga.Dreamhome.Contracts\bin\Release\Newtonsoft.Json.dll
+D:\Dev\Calabonga\Calabonga.Dreamhome\Calabonga.Dreamhome\Calabonga.Dreamhome.Contracts\bin\Release\Newtonsoft.Json.xml
+D:\Dev\Calabonga\Calabonga.Dreamhome\Calabonga.Dreamhome\Calabonga.Dreamhome.Contracts\obj\Release\Calabonga.Dreamhome.Contracts.dll
+D:\Dev\Calabonga\Calabonga.Dreamhome\Calabonga.Dreamhome\Calabonga.Dreamhome.Contracts\obj\Release\Calabonga.Dreamhome.Contracts.pdb
+D:\Dev\Calabonga\Calabonga.Dreamhome\Calabonga.Dreamhome\Calabonga.Dreamhome.Contracts\obj\Release\Calabonga.Dreamhome.Contracts.csprojResolveAssemblyReference.cache

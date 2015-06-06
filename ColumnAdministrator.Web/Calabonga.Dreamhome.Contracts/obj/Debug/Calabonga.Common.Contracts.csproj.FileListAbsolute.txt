@@ -1,0 +1,14 @@
+D:\Dev\_TEMP\ColumnAdministrator\ColumnAdministrator.Web\Calabonga.Dreamhome.Contracts\bin\Debug\Calabonga.Common.Contracts.dll
+D:\Dev\_TEMP\ColumnAdministrator\ColumnAdministrator.Web\Calabonga.Dreamhome.Contracts\bin\Debug\Calabonga.Common.Contracts.pdb
+D:\Dev\_TEMP\ColumnAdministrator\ColumnAdministrator.Web\Calabonga.Dreamhome.Contracts\bin\Debug\Newtonsoft.Json.dll
+D:\Dev\_TEMP\ColumnAdministrator\ColumnAdministrator.Web\Calabonga.Dreamhome.Contracts\bin\Debug\Newtonsoft.Json.xml
+D:\Dev\_TEMP\ColumnAdministrator\ColumnAdministrator.Web\Calabonga.Dreamhome.Contracts\obj\Debug\Calabonga.Common.Contracts.csprojResolveAssemblyReference.cache
+D:\Dev\_TEMP\ColumnAdministrator\ColumnAdministrator.Web\Calabonga.Dreamhome.Contracts\obj\Debug\Calabonga.Common.Contracts.dll
+D:\Dev\_TEMP\ColumnAdministrator\ColumnAdministrator.Web\Calabonga.Dreamhome.Contracts\obj\Debug\Calabonga.Common.Contracts.pdb
+D:\DiplomNazar\SomeExamples\ColumnAdministrator.Web\Calabonga.Dreamhome.Contracts\bin\Debug\Calabonga.Common.Contracts.dll
+D:\DiplomNazar\SomeExamples\ColumnAdministrator.Web\Calabonga.Dreamhome.Contracts\bin\Debug\Calabonga.Common.Contracts.pdb
+D:\DiplomNazar\SomeExamples\ColumnAdministrator.Web\Calabonga.Dreamhome.Contracts\bin\Debug\Newtonsoft.Json.dll
+D:\DiplomNazar\SomeExamples\ColumnAdministrator.Web\Calabonga.Dreamhome.Contracts\bin\Debug\Newtonsoft.Json.xml
+D:\DiplomNazar\SomeExamples\ColumnAdministrator.Web\Calabonga.Dreamhome.Contracts\obj\Debug\Calabonga.Common.Contracts.csprojResolveAssemblyReference.cache
+D:\DiplomNazar\SomeExamples\ColumnAdministrator.Web\Calabonga.Dreamhome.Contracts\obj\Debug\Calabonga.Common.Contracts.dll
+D:\DiplomNazar\SomeExamples\ColumnAdministrator.Web\Calabonga.Dreamhome.Contracts\obj\Debug\Calabonga.Common.Contracts.pdb

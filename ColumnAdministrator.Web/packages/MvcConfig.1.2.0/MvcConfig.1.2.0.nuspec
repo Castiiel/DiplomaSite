@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>MvcConfig</id>
+    <version>1.2.0</version>
+    <title>Config system for ASP.NET MVC</title>
+    <authors>Calabonga</authors>
+    <owners>Calabonga</owners>
+    <projectUrl>http://www.calabonga.net/blog/post/157</projectUrl>
+    <iconUrl>http://www.calabonga.net/content/images/nuget_logo.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>ASP.NET MVC application configuration helper. Your app can keep settings in json file. And this helper can load your config and inject it.</description>
+    <summary>Config system for ASP.NET MVC application base on JSON-file</summary>
+    <releaseNotes>Null reference fixed for non HttpContext requests</releaseNotes>
+    <copyright>Calabonga</copyright>
+    <language>en-US</language>
+    <tags>calabonga mvc ASP.NET configuration DI</tags>
+  </metadata>
+</package>

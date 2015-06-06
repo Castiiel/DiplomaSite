@@ -1,0 +1,64 @@
+﻿<RecentFiles>
+  <RecentFiles>
+    <File id="7E4743A0-B45E-4AF7-88D1-F336BFD984E7/f:ILogNotifyService.cs" caret="0" fromTop="0" />
+    <File id="5E800EC3-46B4-4B6E-8DE1-52999FA4E7B3/d:App_Start/f:AutofacConfig.cs" caret="822" fromTop="23" />
+    <File id="5E800EC3-46B4-4B6E-8DE1-52999FA4E7B3/d:Controllers/f:ManageController.cs" caret="433" fromTop="16" />
+    <File id="5E800EC3-46B4-4B6E-8DE1-52999FA4E7B3/d:Scripts/d:app/f:site.bindingHandlers.js" caret="31577" fromTop="13" />
+    <File id="5E800EC3-46B4-4B6E-8DE1-52999FA4E7B3/d:App_Start/f:BundleConfig.cs" caret="2610" fromTop="34" />
+    <File id="5E800EC3-46B4-4B6E-8DE1-52999FA4E7B3/d:Views/d:Home/f:Index.cshtml" caret="981" fromTop="26" />
+    <File id="5E800EC3-46B4-4B6E-8DE1-52999FA4E7B3/d:Scripts/d:app/f:site.core.js" caret="2055" fromTop="19" />
+    <File id="5E800EC3-46B4-4B6E-8DE1-52999FA4E7B3/d:Models/f:Appliance.cs" caret="723" fromTop="18" />
+    <File id="5E800EC3-46B4-4B6E-8DE1-52999FA4E7B3/f:Global.asax.cs" caret="172" fromTop="6" />
+    <File id="5E800EC3-46B4-4B6E-8DE1-52999FA4E7B3/d:Scripts/d:app/f:site.m.appliance.js" caret="889" fromTop="26" />
+    <File id="5E800EC3-46B4-4B6E-8DE1-52999FA4E7B3/d:Scripts/d:app/f:site.services.appliances.js" caret="0" fromTop="0" />
+    <File id="5E800EC3-46B4-4B6E-8DE1-52999FA4E7B3/d:Scripts/d:app/f:site.vm.homeIndex.js" caret="2360" fromTop="50" />
+    <File id="5E800EC3-46B4-4B6E-8DE1-52999FA4E7B3/d:Controllers/f:AppliancesController.cs" caret="1604" fromTop="29" />
+    <File id="5E800EC3-46B4-4B6E-8DE1-52999FA4E7B3/d:Scripts/d:_tmpls/f:appliance.edit.html" caret="572" fromTop="14" />
+    <File id="5E800EC3-46B4-4B6E-8DE1-52999FA4E7B3/d:Views/d:Admin/f:Settings.cshtml" caret="3369" fromTop="20" />
+    <File id="5E800EC3-46B4-4B6E-8DE1-52999FA4E7B3/d:Scripts/d:app/f:site.controls.js" caret="353" fromTop="8" />
+    <File id="5E800EC3-46B4-4B6E-8DE1-52999FA4E7B3/d:App_Config/f:AppConfig.cfg" caret="35" fromTop="2" />
+    <File id="5E800EC3-46B4-4B6E-8DE1-52999FA4E7B3/d:Controllers/f:AdminController.cs" caret="1571" fromTop="23" />
+    <File id="5E800EC3-46B4-4B6E-8DE1-52999FA4E7B3/d:Infrastructure/f:IApplianceRepository.cs" caret="1405" fromTop="31" />
+    <File id="5E800EC3-46B4-4B6E-8DE1-52999FA4E7B3/d:Infrastructure/f:AppSettingsManager.cs" caret="228" fromTop="6" />
+    <File id="5E800EC3-46B4-4B6E-8DE1-52999FA4E7B3/d:Infrastructure/f:CurrentAppSettings.cs" caret="184" fromTop="5" />
+    <File id="7E4743A0-B45E-4AF7-88D1-F336BFD984E7/d:Config/f:AppConfigrReader.cs" caret="153" fromTop="7" />
+    <File id="7E4743A0-B45E-4AF7-88D1-F336BFD984E7/d:Config/f:ConfigServiceBase.cs" caret="350" fromTop="12" />
+    <File id="7E4743A0-B45E-4AF7-88D1-F336BFD984E7/d:Config/f:ICacheService.cs" caret="0" fromTop="0" />
+    <File id="7E4743A0-B45E-4AF7-88D1-F336BFD984E7/d:Config/f:IConfigService.cs" caret="207" fromTop="10" />
+    <File id="7E4743A0-B45E-4AF7-88D1-F336BFD984E7/d:Config/f:IEmailMessage.cs" caret="181" fromTop="10" />
+    <File id="7E4743A0-B45E-4AF7-88D1-F336BFD984E7/d:Config/f:AppSettings.cs" caret="255" fromTop="11" />
+    <File id="7E4743A0-B45E-4AF7-88D1-F336BFD984E7/d:Config/f:IEMailService.cs" caret="130" fromTop="5" />
+  </RecentFiles>
+  <RecentEdits>
+    <File id="5E800EC3-46B4-4B6E-8DE1-52999FA4E7B3/d:App_Config/f:AppConfig.cfg" caret="1477" fromTop="1" />
+    <File id="5E800EC3-46B4-4B6E-8DE1-52999FA4E7B3/d:Scripts/d:app/f:site.controls.js" caret="2031" fromTop="8" />
+    <File id="5E800EC3-46B4-4B6E-8DE1-52999FA4E7B3/d:Scripts/d:app/f:site.controls.js" caret="2571" fromTop="25" />
+    <File id="5E800EC3-46B4-4B6E-8DE1-52999FA4E7B3/d:Scripts/d:app/f:site.controls.js" caret="1915" fromTop="18" />
+    <File id="5E800EC3-46B4-4B6E-8DE1-52999FA4E7B3/d:Scripts/d:_tmpls/f:appliance.edit.html" caret="572" fromTop="14" />
+    <File id="5E800EC3-46B4-4B6E-8DE1-52999FA4E7B3/d:Scripts/d:app/f:site.controls.js" caret="710" fromTop="11" />
+    <File id="5E800EC3-46B4-4B6E-8DE1-52999FA4E7B3/d:Scripts/d:app/f:site.controls.js" caret="1068" fromTop="15" />
+    <File id="5E800EC3-46B4-4B6E-8DE1-52999FA4E7B3/d:Scripts/d:app/f:site.controls.js" caret="735" fromTop="15" />
+    <File id="5E800EC3-46B4-4B6E-8DE1-52999FA4E7B3/d:Scripts/d:app/f:site.controls.js" caret="544" fromTop="10" />
+    <File id="5E800EC3-46B4-4B6E-8DE1-52999FA4E7B3/d:Infrastructure/f:CurrentAppSettings.cs" caret="601" fromTop="14" />
+    <File id="5E800EC3-46B4-4B6E-8DE1-52999FA4E7B3/d:App_Config/f:AppConfig.cfg" caret="1219" fromTop="2" />
+    <File id="5E800EC3-46B4-4B6E-8DE1-52999FA4E7B3/d:App_Config/f:AppConfig.cfg" caret="1219" fromTop="5" />
+    <File id="5E800EC3-46B4-4B6E-8DE1-52999FA4E7B3/d:Infrastructure/f:CurrentAppSettings.cs" caret="228" fromTop="6" />
+    <File id="5E800EC3-46B4-4B6E-8DE1-52999FA4E7B3/d:Controllers/f:AdminController.cs" caret="2655" fromTop="40" />
+    <File id="5E800EC3-46B4-4B6E-8DE1-52999FA4E7B3/d:Controllers/f:AdminController.cs" caret="256" fromTop="0" />
+    <File id="5E800EC3-46B4-4B6E-8DE1-52999FA4E7B3/d:App_Config/f:AppConfig.cfg" caret="1216" fromTop="1" />
+    <File id="5E800EC3-46B4-4B6E-8DE1-52999FA4E7B3/d:App_Config/f:AppConfig.cfg" caret="1031" fromTop="7" />
+    <File id="5E800EC3-46B4-4B6E-8DE1-52999FA4E7B3/d:Controllers/f:AdminController.cs" caret="2299" fromTop="17" />
+    <File id="5E800EC3-46B4-4B6E-8DE1-52999FA4E7B3/d:Controllers/f:AdminController.cs" caret="2593" fromTop="23" />
+    <File id="5E800EC3-46B4-4B6E-8DE1-52999FA4E7B3/d:Controllers/f:AdminController.cs" caret="2055" fromTop="14" />
+    <File id="5E800EC3-46B4-4B6E-8DE1-52999FA4E7B3/d:Views/d:Admin/f:Settings.cshtml" caret="4261" fromTop="35" />
+    <File id="5E800EC3-46B4-4B6E-8DE1-52999FA4E7B3/d:Views/d:Admin/f:Settings.cshtml" caret="2834" fromTop="11" />
+    <File id="5E800EC3-46B4-4B6E-8DE1-52999FA4E7B3/d:Controllers/f:AdminController.cs" caret="1407" fromTop="26" />
+    <File id="5E800EC3-46B4-4B6E-8DE1-52999FA4E7B3/d:Infrastructure/f:CurrentAppSettings.cs" caret="579" fromTop="20" />
+    <File id="5E800EC3-46B4-4B6E-8DE1-52999FA4E7B3/d:Views/d:Admin/f:Settings.cshtml" caret="3989" fromTop="21" />
+    <File id="5E800EC3-46B4-4B6E-8DE1-52999FA4E7B3/d:Views/d:Admin/f:Settings.cshtml" caret="3369" fromTop="20" />
+    <File id="5E800EC3-46B4-4B6E-8DE1-52999FA4E7B3/d:App_Config/f:AppConfig.cfg" caret="1028" fromTop="1" />
+    <File id="5E800EC3-46B4-4B6E-8DE1-52999FA4E7B3/d:App_Config/f:AppConfig.cfg" caret="770" fromTop="2" />
+    <File id="5E800EC3-46B4-4B6E-8DE1-52999FA4E7B3/d:App_Config/f:AppConfig.cfg" caret="35" fromTop="2" />
+    <File id="5E800EC3-46B4-4B6E-8DE1-52999FA4E7B3/d:Infrastructure/f:AppSettingsManager.cs" caret="228" fromTop="6" />
+  </RecentEdits>
+</RecentFiles>
