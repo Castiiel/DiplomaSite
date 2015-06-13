@@ -8,9 +8,21 @@
             deleteCommand = ko.asyncCommand({
                 execute: function (complete) {
                     if (confirm('Ви дійсно хочете видалити запис?')) {
-                        site.logger.info('Вибачте дана функція ще не реалізована.');
+
+                        var item = dataSource.currentItem();
+                        if (item != null) {
+                            site.logger.info('Видалення запису.');
+                            dataSource.delData(function (result) {
+                                if (result) {
+                                    //  formEdit.close();
+                                    site.logger.success('Успішно видалено');
+                                }
+                                else {
+                                    site.logger.info('Запис не видалено.');
+                                }
+                            });
+                        }
                     }
-                    complete();
                 },
                 canExecute: function (isExecuting) {
                     return !isExecuting && dataSource.currentItem;

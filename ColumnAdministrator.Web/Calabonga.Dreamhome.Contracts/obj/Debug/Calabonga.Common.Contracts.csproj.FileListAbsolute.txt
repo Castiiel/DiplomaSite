@@ -12,10 +12,3 @@ D:\DiplomNazar\SomeExamples\ColumnAdministrator.Web\Calabonga.Dreamhome.Contract
 D:\DiplomNazar\SomeExamples\ColumnAdministrator.Web\Calabonga.Dreamhome.Contracts\obj\Debug\Calabonga.Common.Contracts.csprojResolveAssemblyReference.cache
 D:\DiplomNazar\SomeExamples\ColumnAdministrator.Web\Calabonga.Dreamhome.Contracts\obj\Debug\Calabonga.Common.Contracts.dll
 D:\DiplomNazar\SomeExamples\ColumnAdministrator.Web\Calabonga.Dreamhome.Contracts\obj\Debug\Calabonga.Common.Contracts.pdb
-G:\Проекти\GitProekts\DiplomaSite\ColumnAdministrator.Web\Calabonga.Dreamhome.Contracts\bin\Debug\Calabonga.Common.Contracts.dll
-G:\Проекти\GitProekts\DiplomaSite\ColumnAdministrator.Web\Calabonga.Dreamhome.Contracts\bin\Debug\Calabonga.Common.Contracts.pdb
-G:\Проекти\GitProekts\DiplomaSite\ColumnAdministrator.Web\Calabonga.Dreamhome.Contracts\bin\Debug\Newtonsoft.Json.dll
-G:\Проекти\GitProekts\DiplomaSite\ColumnAdministrator.Web\Calabonga.Dreamhome.Contracts\bin\Debug\Newtonsoft.Json.xml
-G:\Проекти\GitProekts\DiplomaSite\ColumnAdministrator.Web\Calabonga.Dreamhome.Contracts\obj\Debug\Calabonga.Common.Contracts.csprojResolveAssemblyReference.cache
-G:\Проекти\GitProekts\DiplomaSite\ColumnAdministrator.Web\Calabonga.Dreamhome.Contracts\obj\Debug\Calabonga.Common.Contracts.dll
-G:\Проекти\GitProekts\DiplomaSite\ColumnAdministrator.Web\Calabonga.Dreamhome.Contracts\obj\Debug\Calabonga.Common.Contracts.pdb

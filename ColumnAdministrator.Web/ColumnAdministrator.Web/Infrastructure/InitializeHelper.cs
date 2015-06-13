@@ -16,11 +16,27 @@ namespace ColumnAdministrator.Web.Infrastructure
 
             const string password = "123123";
             const string role = "Administrator";
+            const string rolesecretar = "Secretar";
+            const string roleuser = "Autor";
+            const string rolerecensent = "Recenzent";
+
 
             //Create Role Admin if it does not exist
             if (!roleManager.RoleExists(role))
             {
                 roleManager.Create(new IdentityRole(role));
+            }
+            if (!roleManager.RoleExists(rolesecretar))
+            {
+                roleManager.Create(new IdentityRole(rolesecretar));
+            }
+            if (!roleManager.RoleExists(roleuser))
+            {
+                roleManager.Create(new IdentityRole(roleuser));
+            }
+            if (!roleManager.RoleExists(rolerecensent))
+            {
+                roleManager.Create(new IdentityRole(rolerecensent));
             }
 
             //Create User=Admin with password=123123
@@ -35,30 +51,50 @@ namespace ColumnAdministrator.Web.Infrastructure
                 PhoneNumberConfirmed = false
             };
             var adminresult = userManager.Create(admin, password);
-
-            //Add User Admin to Role Admin
             if (adminresult.Succeeded)
-            {
                 userManager.AddToRole(admin.Id, role);
-            }
-            //Create User=Admin with password=123123
+
+            var recenzent = new ApplicationUser
+            {
+                AccessFailedCount = 0,
+                Id = Guid.NewGuid().ToString(),
+                Email = "recenzent@hotmail.com",
+                EmailConfirmed = true,
+                UserName = "recenzent@hotmail.com",
+                TwoFactorEnabled = false,
+                PhoneNumberConfirmed = false
+            };
+            var recenzentresult = userManager.Create(recenzent, password);
+            if (recenzentresult.Succeeded)
+                userManager.AddToRole(recenzent.Id, rolerecensent);
+
+            var secretar = new ApplicationUser
+            {
+                AccessFailedCount = 0,
+                Id = Guid.NewGuid().ToString(),
+                Email = "secretar@hotmail.com",
+                EmailConfirmed = true,
+                UserName = "secretar@hotmail.com",
+                TwoFactorEnabled = false,
+                PhoneNumberConfirmed = false
+            };
+            var secretarresult = userManager.Create(secretar, password);
+            if (secretarresult.Succeeded)
+                userManager.AddToRole(secretar.Id, rolesecretar);
+
             var user = new ApplicationUser
             {
                 AccessFailedCount = 0,
                 Id = Guid.NewGuid().ToString(),
-                Email = "administrator@hotmail.com",
+                Email = "autor@hotmail.com",
                 EmailConfirmed = true,
-                UserName = "administrator@hotmail.com",
+                UserName = "autor@hotmail.com",
                 TwoFactorEnabled = false,
                 PhoneNumberConfirmed = false
             };
             var userresult = userManager.Create(user, password);
-
-            //Add User Admin to Role Admin
             if (userresult.Succeeded)
-            {
-                userManager.AddToRole(user.Id, role);
-            }
+                userManager.AddToRole(user.Id, roleuser);
         }
 
         internal static void SeedItems(ApplicationDbContext context)
@@ -72,7 +108,7 @@ namespace ColumnAdministrator.Web.Infrastructure
                     Description = "Description of item 1",
                     InStock = false,
                     Name = "Appliance",
-                   // LastName = "Appliance",
+                  LastName = "Appliance",
                     Price = "435",
                     Attachment = null
                 },
@@ -83,7 +119,7 @@ namespace ColumnAdministrator.Web.Infrastructure
                     Description = "Description of item 2",
                     InStock = false,
                     Name = "Appliance",
-                   // LastName = "Appliance",
+                   LastName = "Appliance",
                     Price = "4335",
                     Attachment = null
                 },new Appliance()
@@ -93,7 +129,7 @@ namespace ColumnAdministrator.Web.Infrastructure
                     Description = "Description of item 3",
                     InStock = false,
                     Name = "Appliance",
-                    //LastName = "Appliance",
+                    LastName = "Appliance",
                     Price = "4325",
                     Attachment = null
                 },new Appliance()
@@ -103,12 +139,12 @@ namespace ColumnAdministrator.Web.Infrastructure
                     Description = "Description of item 4",
                     InStock = false,
                     Name = "Appliance",
-                   // LastName = "Appliance",
+                    LastName = "Appliance",
                     Price = "1435",
                     Attachment = null
                 },
             };
-            appliances.ForEach(x=>context.Appliances.Add(x));
+            appliances.ForEach(x => context.Appliances.Add(x));
         }
 
     }

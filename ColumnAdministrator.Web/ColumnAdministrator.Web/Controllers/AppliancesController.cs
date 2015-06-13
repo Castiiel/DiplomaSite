@@ -32,5 +32,19 @@ namespace ColumnAdministrator.Web.Controllers {
             }
             return Request.CreateResponse(HttpStatusCode.OK, new ApiResultWarning("Проверьте правильность заполнения формы. Данные не прошли проверку."));
         }
+        public HttpResponseMessage Delete(ApplianceViewModel model)
+        {
+
+            /*  if (ModelState.IsValid)
+              {
+                  var updated = _applianceRepository.(model);
+                  if (updated != null)
+                  {
+                      var result = Mapper.Map<ApplianceViewModel>(updated);
+                      return Request.CreateResponse(HttpStatusCode.OK, new ApiResultSuccess<ApplianceViewModel>(result));
+                  }
+              }*/
+            return Request.CreateResponse(HttpStatusCode.OK, new ApiResultWarning("Проверьте правильность заполнения формы. Данные не прошли проверку."));
+        }
     }
 }
